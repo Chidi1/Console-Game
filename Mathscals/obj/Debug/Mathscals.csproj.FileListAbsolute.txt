@@ -1,0 +1,18 @@
+C:\Users\FOHLEY\source\repos\Mathscals\Mathscals\bin\Debug\Mathscals.exe
+C:\Users\FOHLEY\source\repos\Mathscals\Mathscals\bin\Debug\Mathscals.pdb
+C:\Users\FOHLEY\source\repos\Mathscals\Mathscals\obj\Debug\Mathscals.csprojResolveAssemblyReference.cache
+C:\Users\FOHLEY\source\repos\Mathscals\Mathscals\obj\Debug\Mathscals.csproj.CoreCompileInputs.cache
+C:\Users\FOHLEY\source\repos\Mathscals\Mathscals\obj\Debug\Mathscals.exe
+C:\Users\FOHLEY\source\repos\Mathscals\Mathscals\obj\Debug\Mathscals.pdb
+C:\Users\LBAN\Downloads\Compressed\MathsCal-master\MathsCal-master\Mathscals\bin\Debug\Mathscals.exe
+C:\Users\LBAN\Downloads\Compressed\MathsCal-master\MathsCal-master\Mathscals\bin\Debug\Mathscals.pdb
+C:\Users\LBAN\Downloads\Compressed\MathsCal-master\MathsCal-master\Mathscals\obj\Debug\MathsCals.csproj.CoreCompileInputs.cache
+C:\Users\LBAN\Downloads\Compressed\MathsCal-master\MathsCal-master\Mathscals\obj\Debug\Mathscals.exe
+C:\Users\LBAN\Downloads\Compressed\MathsCal-master\MathsCal-master\Mathscals\obj\Debug\Mathscals.pdb
+C:\Users\LBAN\Downloads\Compressed\MathsCal-master\MathsCal-master\Mathscals\obj\Debug\MathsCals.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MathsCal\Mathscals\bin\Debug\Mathscals.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MathsCal\Mathscals\bin\Debug\Mathscals.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MathsCal\Mathscals\obj\Debug\MathsCals.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MathsCal\Mathscals\obj\Debug\MathsCals.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MathsCal\Mathscals\obj\Debug\Mathscals.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\MathsCal\Mathscals\obj\Debug\Mathscals.pdb
